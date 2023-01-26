@@ -33,7 +33,8 @@ def gcd():
 ```
 
 ## Output:
-![output](a1.jpg)
+![WhatsApp Image 2023-01-26 at 17 47 48](https://user-images.githubusercontent.com/120552008/214834758-b8bff682-d220-4ad1-add2-bea2079209cb.jpg)
+
 
 
 ## Result:
